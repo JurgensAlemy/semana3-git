@@ -1,2 +1,2 @@
 Curso: Herramientas de Desarrollo
-Contenido en rama principal
+Aprendiendo sobre ramas
